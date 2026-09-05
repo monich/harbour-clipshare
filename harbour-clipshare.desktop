@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Clip Share
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-clipshare
+Exec=harbour-clipshare
+
+[X-Sailjail]
+#Sandboxing=Disabled
+Permissions=
+OrganizationName=harbour
+ApplicationName=clipshare
