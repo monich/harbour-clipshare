@@ -1,6 +1,6 @@
 Name:           harbour-clipshare
 Summary:        Shares the clipboard contents
-Version:        1.0.0
+Version:        1.0.1
 Release:        1
 License:        BSD
 URL:            https://github.com/monich/harbour-clipshare
